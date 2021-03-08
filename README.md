@@ -1,2 +1,2 @@
-# Lead_scoring-Load-default-use-case
-Application of predictive lead scoring to a use case.
+# Lead Scoring Use case
+Application of predictive lead scoring to a Loan default use case.
